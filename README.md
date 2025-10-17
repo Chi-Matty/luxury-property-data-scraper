@@ -12,4 +12,5 @@ This Python web scraper extracts luxury property listings from LuxuryEstate.com,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6C37?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-0052CC?style=for-the-badge&logo=httpx&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
